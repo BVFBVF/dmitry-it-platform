@@ -37,9 +37,3 @@
 - Эндпоинты: POST /api/auth/login/, POST /api/auth/refresh/,
   GET /api/auth/me/
 
-## Запуск
-docker-compose up --build
-
-## Сдача
-Когда готово — скинь ссылку на репо.
-Вопросы пиши, отвечу в течение дня.
