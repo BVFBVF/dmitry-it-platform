@@ -1,4 +1,4 @@
-# Stajirovk — Backend API
+# Backend API
 
 Внутренняя платформа управления стажёрами.
 
